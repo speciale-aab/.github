@@ -1,15 +1,15 @@
-# Samples
+# Visualization Samples
+## Sequence Playback
+![Playback match example](/media/PlaybackFrames.gif)
+
 ## Simple Frame
 ![Match Frame Sample](/media/SimpleFrame.png)
 
 ## Convex Hull Spanning Home Team
-![Convex Hull](/½media/SimpleFrameWConvexHull.png)
+![Convex Hull](/media/SimpleFrameWConvexHull.png)
 
 ## Match Heatmap
 ![Heatmap](/media/MatchHeatmapAABLBK.png)
-
-## Sequence Playback
-![Playback match example](/media/PlaybackFrames.gif)
 
 ## All Positions of Players and Ball
 ![All Positions](/media/AllPositionsOfPlayersAndBall.png)
